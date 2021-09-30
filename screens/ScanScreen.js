@@ -1,3 +1,6 @@
+//Pramod Prasad Singh
+//WHJR
+
 import React from 'react';
 import { Text, View, TouchableOpacity,Image, StyleSheet } from 'react-native';
 import * as Permissions from 'expo-permissions';
